@@ -1,0 +1,151 @@
+/* Main Body */
+
+body {
+    text-align: center;
+    font-family: 'Kreon', serif;
+    margin: 0;
+    color: #40514E
+}
+
+h1 {
+    font-size: 3.75em;
+    font-family: 'Englebert', sans-serif;
+    padding-top: 100px;
+    line-height: 1;
+    color: #66bfbf;
+}
+
+a {
+    color: #11999E
+}
+
+h2 {
+    font-size: 2em;
+    color: #66bfbf;
+}
+
+h2 {
+    font-size: 2em;
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+    margin-left: 10px;
+}
+
+hr {
+    border-top: 5px dotted grey;
+    width: 4%;
+    margin: 25px auto
+}
+
+img {
+    margin-top: 0.5%;
+}
+
+/* Top Container */
+
+.top-container {
+    background-color: #d7fffd;
+    margin-top: -40px;
+    margin-bottom: 2%;
+}
+
+.dbz-image {
+    width: 7rem;
+}
+
+.Cloud1 {
+    position: absolute;
+    margin-left: 200px;
+    width: 10%;
+    padding-top: 20px;
+}
+
+.Cloud2 {
+    position: absolute;
+    left: 200px;
+    margin-top: 50px;
+}
+
+
+/* Middle- Container  */
+.profile-pic {
+    width: 100px;
+}
+
+
+.contact-me {
+    padding-bottom: 30px;
+    width: 50%;
+    margin: auto
+}
+
+.Interests {
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+    line-height: 2;
+}
+
+.mining-pic {
+    width: 5rem;
+}
+
+/* Bottom-Container */
+
+.bottom-container {
+    background-color: #66BFBF;
+}
+
+.mant-icon {
+    margin: 0;
+}
+
+a {
+    font-family: 'Kreon', serif;
+    margin: 10px 30px;
+    text-decoration: none;
+}
+
+/* Button-Icon */
+button {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #1199E9);
+    background-image: -moz-linear-gradient(top, #11CDD4, #1199E9);
+    background-image: -ms-linear-gradient(top, #11CDD4, #1199E9);
+    background-image: -o-linear-gradient(top, #11CDD4, #1199E9);
+    background-image: linear-gradient(to bottom, #11CDD4, #1199E9);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Kreon', serif;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 12px;
+    box-shadow: 1px 1px 12px 0px #000000;
+    -webkit-box-shadow: 1px 1px 12px 0px #000000;
+    -moz-box-shadow: 1px 1px 12px 0px #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+button:hover {
+    border: solid #337FED 1px;
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}

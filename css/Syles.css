@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.top-container {
+    background-color: #d7fffd;
+}
+
+.middle-container {
+    width: 200px;
+    height: 200px;
+    background-color: hotpink
+}
+
+.bottom-container {
+    width: 200px;
+    height: 200px;
+    background-color: ;
+}
+
+img {
+    background-color: green;
+}
+
+.Mining {
+    padding: 25%;
+    margin: 10rem;
+}
