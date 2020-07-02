@@ -1,0 +1,19 @@
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "description": "This is a website I created with just HTML and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamJaphia/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamJaphia/website/issues"
+  },
+  "homepage": "https://github.com/SamJaphia/website#readme"
+}
